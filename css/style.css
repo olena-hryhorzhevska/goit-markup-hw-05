@@ -671,16 +671,6 @@ img {
   margin-bottom: 16px;
 }
 
-.modal-form-label-coment {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: #8e8f99;
-  display: block;
-  margin-bottom: 4px;
-}
-
 .modal-textarea {
   width: 360px;
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -689,6 +679,7 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
+  outline: transparent;
   color: rgba(46, 47, 66, 0.4);
   background-color: transparent;
   outline: transparent;
